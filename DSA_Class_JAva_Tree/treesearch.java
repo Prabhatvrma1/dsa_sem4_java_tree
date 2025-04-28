@@ -32,7 +32,7 @@ public class treesearch {
 
         root.right.right = new Node(80);
 
-        System.out.println("40 present in the tree : " + searchNode(root, 40));
+        System.out.println("node present in the tree : " + searchNode(root, 40));
     }
 }
 
